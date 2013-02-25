@@ -1,0 +1,9 @@
+{
+  "name": "angular-phonegap-geolocation",
+  "version": "0.0.1",
+  "main": "geolocation.js",
+  "dependencies": {
+    "angular": "~1.0.5",
+    "angular-phonegap-ready": "~0.0.1"
+  }
+}
